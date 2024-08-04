@@ -5,7 +5,7 @@ import time
 
 
 #Determine how much money does the user have extracting it form the txt file
-file_path = 'C:\\Users\\Arturo Catalán\\Documents\\Python\\ruleta\\ruleta.txt'
+file_path = 'roulette.txt'
 
 with open(file_path, 'r') as file:
     line = file.readline()
