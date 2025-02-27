@@ -4,7 +4,7 @@ import time
 
 
 
-#Determine how much money does the user have extracting it form the txt file
+#Determine how much money does the user have extracting it from the txt file
 file_path = 'roulette.txt'
 
 with open(file_path, 'r') as file:
